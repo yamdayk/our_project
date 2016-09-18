@@ -1,2 +1,2 @@
 dorami_project
-I think that doraemon likes dorayaki.
+jaiko is jaian's sister.
