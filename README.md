@@ -1,2 +1,2 @@
 dorami_project
-doraemon likes dorayaki.
+I think doraemon likes dorayaki.
